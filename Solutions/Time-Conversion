@@ -1,0 +1,32 @@
+import Foundation
+
+/*
+ * Complete the 'timeConversion' function below.
+ *
+ * The function is expected to return a STRING.
+ * The function accepts STRING s as parameter.
+ */
+
+func timeConversion(s: String) -> String {
+    let dummyDate = "1970.01.01"
+    let dateFormatter = DateFormatter()
+    dateFormatter.dateFormat = "yyyy.MM.ddhh:mm:ssa"
+    let date = dateFormatter.date(from: (dummyDate + s))!
+    
+    dateFormatter.dateFormat = "HH:mm:ss"
+    let convertTo24 = dateFormatter.string(from: date)
+    return convertTo24
+    
+}
+
+
+let stdout = ProcessInfo.processInfo.environment["OUTPUT_PATH"]!
+FileManager.default.createFile(atPath: stdout, contents: nil, attributes: nil)
+let fileHandle = FileHandle(forWritingAtPath: stdout)!
+
+guard let s = readLine() else { fatalError("Bad input") }
+
+let result = timeConversion(s: s)
+
+fileHandle.write(result.data(using: .utf8)!)
+fileHandle.write("\n".data(using: .utf8)!)
