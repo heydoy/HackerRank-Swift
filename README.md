@@ -19,10 +19,10 @@
 | 시작날짜 | 문제 | 솔루션 및 해결여부| 고민한 내용들| 
 |--|--|--|--| 
 | 2022.10.24(월) | [Lonely Integer](https://www.hackerrank.com/challenges/three-month-preparation-kit-lonely-integer/problem)| ✅ [Link](https://github.com/heydoy/HackerRank-Swift/blob/main/Solutions/Lonely-Integer.swift) | []()
-| 2022.10.24(월) | [Grading Students](https://www.hackerrank.com/challenges/three-month-preparation-kit-grading/problem)| 😵 []() | []()
-| 2022.10.24(월) | []()| 😵 []() | []()
-| 2022.10.24(월) | []()| 😵 []() | []()
-| 2022.10.24(월) | []()| 😵 []() | []()
-| 2022.10.24(월) | []()| 😵 []() | []()
-| 2022.10.24(월) | []()| 😵 []() | []()
+| 2022.10.24(월) | [Grading Students](https://www.hackerrank.com/challenges/three-month-preparation-kit-grading/problem)| ✅ []() | []()
+| 2022.10.24(월) | [Diagonal Difference](https://www.hackerrank.com/challenges/three-month-preparation-kit-diagonal-difference/problem)| ✅ []() | []()
+| 2022.10.25(화) | []()| 😵 []() | []()
+| 2022.10.25(화) | []()| 😵 []() | []()
+| 2022.10.25(화) | []()| 😵 []() | []()
+| 2022.10.25(화) | []()| 😵 []() | []()
 
