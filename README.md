@@ -33,5 +33,7 @@
 
 | 시작날짜 | 문제 | 솔루션 및 해결여부| 고민한 내용들| 
 |--|--|--|--| 
-| 2022.10.31(월) | [Permuting Two Arrays](https://www.hackerrank.com/challenges/three-month-preparation-kit-two-arrays/problem)| 😵 []() | []()
+| 2022.10.31(월) | [Permuting Two Arrays](https://www.hackerrank.com/challenges/three-month-preparation-kit-two-arrays/problem)| ✅ []() | []()
+| 2022.10.31(월) | [Subarray Division 2]()| ✅ [Link](https://github.com/heydoy/HackerRank-Swift/blob/main/Solutions/Subarray-Division-2.swift) | []()
 | 2022.10.31(월) | []()| 😵 []() | []()
+| 2022.10.31(월) | [Subarray Division 2]()| ✅ [Link](https://github.com/heydoy/HackerRank-Swift/blob/main/Solutions/Subarray-Division-2.swift) | []()
