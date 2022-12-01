@@ -48,5 +48,5 @@
 ### 5주차 (2022.12.01 ~ 12.7)
 | 시작날짜 | 문제 | 솔루션 및 해결여부| 고민한 내용들| 
 |--|--|--|--| 
-| 2022.12.01(목) | [Max Min](https://www.hackerrank.com/challenges/three-month-preparation-kit-angry-children/problem?h_l=interview&isFullScreen=true&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=three-month-preparation-kit&playlist_slugs%5B%5D=three-month-week-five)| ✅ []() | []()
+| 2022.12.01(목) | [Max Min](https://www.hackerrank.com/challenges/three-month-preparation-kit-angry-children/problem?h_l=interview&isFullScreen=true&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=three-month-preparation-kit&playlist_slugs%5B%5D=three-month-week-five)| ✅ []() | [#13](https://github.com/heydoy/HackerRank-Swift/issues/13)
 | 2022.12.01(목) | []()| 😵 []() | []()
