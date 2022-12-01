@@ -37,10 +37,16 @@
 | 2022.10.31(월) | [Subarray Division 2]()| ✅ [Link](https://github.com/heydoy/HackerRank-Swift/blob/main/Solutions/Subarray-Division-2.swift) | []()
 | 2022.10.31(월) | []()| 😵 []() | []()
 
-### 4주차 (2022.11.24 ~ 12.28)
+### 4주차 (2022.11.24 ~ 11.30)
 | 시작날짜 | 문제 | 솔루션 및 해결여부| 고민한 내용들| 
 |--|--|--|--| 
 | 2022.12.24(목) | [Closest Numbers](https://www.hackerrank.com/challenges/three-month-preparation-kit-closest-numbers/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=three-month-preparation-kit&playlist_slugs%5B%5D=three-month-week-four)| ✅ 2/6 []() | []()
 | 2022.12.24(목) | [Caesar Cipher](https://www.hackerrank.com/challenges/three-month-preparation-kit-caesar-cipher-1/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=three-month-preparation-kit&playlist_slugs%5B%5D=three-month-week-four)| 😵 []() | []()
 | 2022.12.24(목) | []()| 😵 []() | []()
 | 2022.12.24(목) | []()| 😵 []() | []()
+
+### 5주차 (2022.12.01 ~ 12.7)
+| 시작날짜 | 문제 | 솔루션 및 해결여부| 고민한 내용들| 
+|--|--|--|--| 
+| 2022.12.01(목) | [Max Min](https://www.hackerrank.com/challenges/three-month-preparation-kit-angry-children/problem?h_l=interview&isFullScreen=true&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=three-month-preparation-kit&playlist_slugs%5B%5D=three-month-week-five)| ✅ []() | []()
+| 2022.12.01(목) | []()| 😵 []() | []()
