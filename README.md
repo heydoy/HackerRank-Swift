@@ -51,4 +51,4 @@
 | 시작날짜 | 문제 | 솔루션 및 해결여부| 고민한 내용들| 
 |--|--|--|--|
 | 2023.7.30(월) | [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | ✅ [Link](https://github.com/heydoy/HackerRank-Swift/blob/main/Solutions/Encryption.swift) | [#14](https://github.com/heydoy/HackerRank-Swift/issues/14) |
-| | | |
+| 2023.8.3(목) | [Larry's Array](https://www.hackerrank.com/challenges/larrys-array/problem) | ✅ [Link](https://github.com/heydoy/HackerRank-Swift/blob/main/Solutions/Larry's-Array.swift) | [#15]((https://github.com/heydoy/HackerRank-Swift/issues/15)  |
