@@ -16,15 +16,6 @@ func larrysArray(A: [Int]) -> String {
     }
 }
 
-// DOY COMMENT: 
-// Kinda feel like merge sort 
-// Let's say we have three elements like this. 
-// As we want them to be sorted, every permutation's original form should also be ascending sorted one. For like: 
-// (1,2,3) -> (2,3,1) -> (3,1,2) -> (1,2,3) 
-// when count inversion, (2,3,1) and (3,1,2) has two inversions. 
-// but there are also unsortable array there 
-// (6,5,4) -> (5,4,6) -> (4,6,5) -> (6,5,4)
-// when count inversion, 1, 3, the total of inversions ammong the array is odd numbers.
 private func inversionCount(in arr: [Int]) -> Int {
     var count = 0
     for i in stride(from: arr.count - 1, through: 0, by: -1) {
