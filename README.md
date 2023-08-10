@@ -52,5 +52,5 @@
 |--|--|--|--|
 | 2023.7.30(월) | [Encryption](https://www.hackerrank.com/challenges/encryption/problem) | ✅ [Link](https://github.com/heydoy/HackerRank-Swift/blob/main/Solutions/Encryption.swift) | [#14](https://github.com/heydoy/HackerRank-Swift/issues/14) |
 | 2023.8.3(목) | [Larry's Array](https://www.hackerrank.com/challenges/larrys-array/problem) | ✅ [Link](https://github.com/heydoy/HackerRank-Swift/blob/main/Solutions/Larry's-Array.swift) | [#15](https://github.com/heydoy/HackerRank-Swift/issues/15)  |
-| 2023.8.10(수) | [Cats and a mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true) | ✅ [Link](https://github.com/heydoy/HackerRank-Swift/blob/main/Solutions/Cats-and-a-Mouse.swift) | | 
+| 2023.8.10(수) | [Cats and a mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true) | ✅ [Link](https://github.com/heydoy/HackerRank-Swift/blob/main/Solutions/Cats-and-a-Mouse.swift) | [#16](https://github.com/heydoy/HackerRank-Swift/issues/16) | 
 | | | | |
